@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69" height="2" viewBox="0 0 69 2">
+    <defs>
+        <linearGradient id="fr333drbga" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFF" stop-opacity="0"/>
+            <stop offset="52.054%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g fill="url(#fr333drbga)" transform="translate(-388 -2074)">
+            <g>
+                <g>
+                    <path d="M444.5 99.5L446.1 99.5 446.1 30.5 444.5 30.5z" transform="translate(-23 1748) translate(0 262) rotate(90 445.3 65)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

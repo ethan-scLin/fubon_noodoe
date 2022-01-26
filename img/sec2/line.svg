@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="277" height="3" viewBox="0 0 277 3">
+    <defs>
+        <linearGradient id="az85kaj37a" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFF" stop-opacity="0"/>
+            <stop offset="52.054%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g fill="url(#az85kaj37a)" transform="translate(-785 -900)">
+            <path d="M923 1040L925 1040 925 763 923 763z" transform="rotate(90 924 901.5)"/>
+        </g>
+    </g>
+</svg>

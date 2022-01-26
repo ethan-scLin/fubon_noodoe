@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="478" height="131" viewBox="0 0 478 131">
+    <defs>
+        <linearGradient id="aiq24r469a" x1="109.362%" x2="-6.832%" y1="54.488%" y2="54.488%">
+            <stop offset="0%" stop-color="#0236D6"/>
+            <stop offset="40.432%" stop-color="#002F7D"/>
+            <stop offset="51.018%" stop-color="#002E72"/>
+            <stop offset="58.059%" stop-color="#003277"/>
+            <stop offset="66.626%" stop-color="#003981"/>
+            <stop offset="77.434%" stop-color="#00489C"/>
+            <stop offset="100%" stop-color="#0179D9"/>
+        </linearGradient>
+        <filter id="fpleam2bvb" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" opacity=".5">
+        <g fill="url(#aiq24r469a)" transform="translate(-1191 -2239)">
+            <g>
+                <g transform="translate(356 1848) translate(0 297)">
+                    <rect width="478" height="131" x="835" y="94" filter="url(#fpleam2bvb)" rx="5"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

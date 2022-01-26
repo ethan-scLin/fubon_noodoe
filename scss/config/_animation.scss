@@ -1,0 +1,110 @@
+@keyframes title_br_light {
+  from {
+    opacity: 0;
+    left: 0%;
+  }
+  33.3% {
+    opacity: 0;
+    left: 0;
+  }
+  38% {
+    opacity: 0;
+  }
+  45% {
+    opacity: 1;
+  }
+  55% {
+    opacity: 1;
+  }
+  66.6% {
+    opacity: 0;
+    left: 100%;
+  }
+  100% {
+    opacity: 0;
+    left: 0;
+  }
+}
+
+@keyframes sec1_light_left {
+  from {
+    top: -4%;
+  }
+  to {
+    top: 69%;
+  }
+}
+
+@keyframes sec1_light_right {
+  from {
+    bottom: -4%;
+  }
+  to {
+    bottom: 69%;
+  }
+}
+
+@keyframes kv-circle1 {
+  0% {
+    transform: rotate(0deg);
+    opacity: 50%;
+  }
+  25% {
+    opacity: 100%;
+  }
+  50% {
+    opacity: 50%;
+  }
+  75% {
+    opacity: 100%;
+  }
+  100% {
+    opacity: 50%;
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes kv-light {
+  0% {
+    opacity: 0.3;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes kv-car {
+  0% {
+    opacity: 0;
+    top: -10%;
+  }
+  20%,
+  50% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+    top: 80%;
+  }
+}
+
+@keyframes kv-car-p {
+  0% {
+    opacity: 0;
+    top: -10%;
+  }
+  20%,
+  50% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+    top: 60%;
+  }
+}

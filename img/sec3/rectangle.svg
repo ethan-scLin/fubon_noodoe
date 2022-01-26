@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="483" height="467" viewBox="0 0 483 467">
+    <defs>
+        <linearGradient id="dhxwsclpha" x1="109.362%" x2="-6.832%" y1="54.488%" y2="54.488%">
+            <stop offset="0%" stop-color="#0236D6"/>
+            <stop offset="40.432%" stop-color="#002F7D"/>
+            <stop offset="51.018%" stop-color="#002E72"/>
+            <stop offset="58.059%" stop-color="#003277"/>
+            <stop offset="66.626%" stop-color="#003981"/>
+            <stop offset="77.434%" stop-color="#00489C"/>
+            <stop offset="100%" stop-color="#0179D9"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" opacity=".5">
+        <g fill="url(#dhxwsclpha)" transform="translate(-792 -3232)">
+            <g>
+                <g>
+                    <g>
+                        <g transform="translate(304 2962) translate(0 213) translate(470) translate(0 37.536)">
+                            <rect width="483" height="466.946" x="18" y="19.519" rx="7.496"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
